@@ -109,7 +109,7 @@ With a clean and mobile-friendly interface, it provides tools for:
 ## ⚡️ Installation & Setup
 1. **Clone the Repository:**
     ```bash
-    git clone https://your-repo-link.git
+    git clone https://your-repo-link.git](https://github.com/Yova-org/Yova-Lancer.git
     ```
 2. **Install Dependencies:**
     ```bash
